@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP - 263785192250
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '263785192250'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ₜₐₖᵤₙDₐ Cₕₐᵣₗₑₛ ₖₐₙⱼᵤₘₐ ₘᵤₙYₒᵣₒ'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,13 +41,13 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'KING TAKX'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@takx_mb 🤹‍♂️' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '𝙸 𝙻𝙴𝙰𝚁𝙽 𝙰𝚃 𝙹𝙾𝙽𝙰𝚂 𝙷𝙸𝙶𝙷 𝚂𝙲𝙷𝙾𝙾𝙻'
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -71,7 +71,7 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/IxTYudb4GvSAuvzRKE5ULH' // ur group link
 
 
 /* 18 + Download Settings */
